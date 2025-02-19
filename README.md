@@ -21,7 +21,7 @@ A simple chat application built with React that allows users to send and receive
 1. **Clone the Repository:**
    ```bash
    git clone http://github.com/brahimbafou/chat-app-react.git
-   cd chat-app
+   cd chat-app-react
    ```
 
 2. **Install Dependencies:**
